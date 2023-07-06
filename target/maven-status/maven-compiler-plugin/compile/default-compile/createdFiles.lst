@@ -1,0 +1,10 @@
+com\desafio\msdesafio\entity\TipoCambio.class
+com\desafio\msdesafio\repository\TipoCambioRepository.class
+com\desafio\msdesafio\MsDesafioApplication.class
+com\desafio\msdesafio\request\TipoCambioRequest.class
+com\desafio\msdesafio\response\GenericResponse.class
+com\desafio\msdesafio\service\TipoCambioService.class
+com\desafio\msdesafio\controller\TipoCambioController.class
+com\desafio\msdesafio\response\TipoCambioResponse.class
+com\desafio\msdesafio\exception\TipoCambioNotFoundException.class
+com\desafio\msdesafio\request\ValorTipoCambioRequest.class

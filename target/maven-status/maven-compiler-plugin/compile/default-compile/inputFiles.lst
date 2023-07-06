@@ -1,0 +1,10 @@
+E:\JAVA\ms-prueba\src\main\java\com\desafio\msdesafio\MsDesafioApplication.java
+E:\JAVA\ms-prueba\src\main\java\com\desafio\msdesafio\response\TipoCambioResponse.java
+E:\JAVA\ms-prueba\src\main\java\com\desafio\msdesafio\repository\TipoCambioRepository.java
+E:\JAVA\ms-prueba\src\main\java\com\desafio\msdesafio\response\GenericResponse.java
+E:\JAVA\ms-prueba\src\main\java\com\desafio\msdesafio\controller\TipoCambioController.java
+E:\JAVA\ms-prueba\src\main\java\com\desafio\msdesafio\exception\TipoCambioNotFoundException.java
+E:\JAVA\ms-prueba\src\main\java\com\desafio\msdesafio\request\TipoCambioRequest.java
+E:\JAVA\ms-prueba\src\main\java\com\desafio\msdesafio\request\ValorTipoCambioRequest.java
+E:\JAVA\ms-prueba\src\main\java\com\desafio\msdesafio\entity\TipoCambio.java
+E:\JAVA\ms-prueba\src\main\java\com\desafio\msdesafio\service\TipoCambioService.java
